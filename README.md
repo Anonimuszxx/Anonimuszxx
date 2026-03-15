@@ -10,8 +10,8 @@
 
 ```yaml
 Nome: Anônimoszx
-Especialidade: Cyber Security
-Função: Developer / System Builder
+Estudando: Ciber Segurança
+Função: Devesenvolvedor iniciante
 Localização: Brasil
 Status: Online
 ```
@@ -22,7 +22,6 @@ Status: Online
 * Automação de sistemas
 * Desenvolvimento web
 * Ferramentas hacker style
-* Projetos open source
 
 ---
 
