@@ -10,7 +10,7 @@
 # 🧠 Sobre mim
 
 ```yaml
-Nome: Anônimoszx
+Nome: Anônimoszxx
 Estudando: Ciber Segurança
 Função: Devesenvolvedor iniciante
 Localização: Brasil
@@ -47,23 +47,13 @@ Status: Online
 </p>
 
 ---
-## 🐍 Snake das Contribuições
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 # 🚀 Projetos em Destaque
 
 ```bash
-> AutoSite Builder
+> Criador de Sites
 > Hacker Portfolio
-> Cyber Security Tools
-> Web Automation Scripts
+> Site de automaçoes
 > Matrix UI Interfaces
 ```
 # 👁 VISITANTES
