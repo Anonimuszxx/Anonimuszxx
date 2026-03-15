@@ -1,3 +1,4 @@
+
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=32&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=ANÔNIMOSZX;ACESSO+AUTORIZADO;DESENVOLVEDOR+DE+SISTEMAS;SEGURANÇA+CIBERNÉTICA;BEM+VINDO+AO+MEU+PERFIL" />
@@ -46,8 +47,13 @@ Status: Online
 </p>
 
 ---
+## 🐍 Snake das Contribuições
 
-# 🐍 Snake das Contribuições
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 
@@ -60,8 +66,13 @@ Status: Online
 > Web Automation Scripts
 > Matrix UI Interfaces
 ```
+# 👁 VISITANTES
 
----
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Anonimuszxx&color=ff0000&style=for-the-badge">
+
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
 
